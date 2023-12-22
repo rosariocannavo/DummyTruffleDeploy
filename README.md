@@ -1,6 +1,6 @@
 # Smart Contract Deployment and Testing with Truffle
 
-This repository demonstrates how to deploy a Solidity smart contract using Truffle and conduct tests on the deployed contract.
+This repository demonstrates how to deploy two Solidity smart contract using Truffle and conduct tests on the deployed contracts. In addition Contracts implement two design patterns: proxy and emergency stop
 
 ## Requirements
 
